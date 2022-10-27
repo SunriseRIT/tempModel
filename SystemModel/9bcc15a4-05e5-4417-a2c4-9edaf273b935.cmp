@@ -1,0 +1,11 @@
+{
+  "id": "9bcc15a4-05e5-4417-a2c4-9edaf273b935",
+  "name": "CloudData",
+  "type": "database",
+  "relationships": {
+    "depends-on": [
+      "cd154e2f-60c0-4083-b5e3-2412cc50ac50",
+      "c78367ca-11d9-477c-8764-b72860a29922"
+    ]
+  }
+}
